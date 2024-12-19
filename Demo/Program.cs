@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System;
+using System.Text;
 
 namespace Demo
 {
@@ -105,11 +106,35 @@ namespace Demo
 
             //    if (result == "")
             //        result = "0";
-            
 
-               
+
+
             //}
             //Console.WriteLine(result);
+            #endregion
+
+            #region Q17)17- Create a program that asks the user to input three points (x1, y1),(x2, y2), and(x3, y3), and determines whether these points lie on a single straight line.
+            //int x1,y1,x2,y2,x3,y3;
+            //Console.WriteLine("Enter x1");
+            //x1 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter y1");
+            //y1 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter x2");
+            //x2 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter y2");
+            //y2 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter x3");
+            //x3 = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter y3");
+            //y3 = int.Parse(Console.ReadLine());
+
+
+            //if (y2 - y1 / x2 - x1 == y3 - y2 / x3 - x2) {
+            //    Console.WriteLine("these points lie on a single straight line.");
+            //}
+            //else
+            //    Console.WriteLine("Doesn't lie on a single straight line.");
+
             #endregion
         }
     }

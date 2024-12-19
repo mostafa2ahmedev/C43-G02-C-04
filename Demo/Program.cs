@@ -136,6 +136,24 @@ namespace Demo
             //    Console.WriteLine("Doesn't lie on a single straight line.");
 
             #endregion
+
+            #region Q18)
+            //Console.WriteLine("Enter Time");
+            //int Time = int.Parse(Console.ReadLine());
+
+            //if(Time>=2&&Time<3)
+            //    Console.WriteLine("Highly Efficient");
+            //else if(Time>=3&&Time<4)
+            //    Console.WriteLine("Increase your speed");
+            //else if(Time >= 4 && Time < 5)
+            //    Console.WriteLine("Train to enhance your speed");
+            //else if (Time > 5)
+            //    Console.WriteLine("Leave the company");
+            //else
+            //    Console.WriteLine("Enter a valid Number");
+
+
+            #endregion
         }
     }
 }

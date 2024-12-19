@@ -71,7 +71,7 @@ namespace Demo
             //    flag = true; 
             //    if (i < 2) 
             //        flag = false;
-             
+
             //    else
             //    {
             //        for (int j = 2; j < i; j++)
@@ -91,6 +91,28 @@ namespace Demo
             //}
             //Console.WriteLine(result.ToString());
             #endregion
+
+            #region Q16) Write a program in C# Sharp to convert a decimal number into binary without using an array.
+            //Console.WriteLine("Enter a number:");
+            //int Number = int.Parse(Console.ReadLine());
+
+            //string result = "";
+
+            //while (Number > 0)
+            //{
+            //    result = (Number % 2) + result;
+            //    Number /= 2;
+
+            //    if (result == "")
+            //        result = "0";
+            
+
+               
+            //}
+            //Console.WriteLine(result);
+            #endregion
         }
     }
 }
+
+
